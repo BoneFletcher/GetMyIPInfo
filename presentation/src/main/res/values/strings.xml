@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GetMyIPInfo</string>
+    <string name="get_ip_address_info">Get IP Address Info</string>
+    <string name="status">Status: %1$s</string>
+    <string name="countryCode">CountryCode: %1$s</string>
+    <string name="country">Country: %1$s</string>
+    <string name="city">City: %1$s</string>
+    <string name="zip">Zip: %1$s</string>
+    <string name="lat">Lat: %1$s</string>
+    <string name="lon">Lon: %1$s</string>
+    <string name="currency">Currency: %1$s</string>
+    <string name="isp">Isp: %1$s</string>
+</resources>
